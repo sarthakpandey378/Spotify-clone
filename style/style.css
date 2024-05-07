@@ -112,8 +112,8 @@
 .create-btn {
     border-radius: 30px;
     position: relative;
-    top: 21px;
-    padding: 6px;
+    top: -3px;
+   
     font-weight: 600;
 }
 
@@ -437,6 +437,8 @@
 
     .hamburger {
         display: block;
+        position: relative;
+        left: 10px;
     }
 
     .footer {
